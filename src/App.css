@@ -1,3 +1,9 @@
 body {
+  background-color: palegreen;
+  color: midnightblue;
+  text-align: center;
+}
 
+label {
+  font-size: 14pt;
 }
